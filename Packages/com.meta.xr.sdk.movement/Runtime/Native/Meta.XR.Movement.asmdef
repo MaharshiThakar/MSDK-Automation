@@ -1,0 +1,50 @@
+{
+    "name": "Meta.XR.Movement",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f64c9ebcd7899c3448a08dc9f9ddbe30",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:2a230cb87a1d3ba4a98bdc0ddae76e6c",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.burst",
+            "expression": "",
+            "define": "UNITY_BURST_DEFINED"
+        },
+        {
+            "name": "com.meta.xr.sdk.interaction",
+            "expression": "",
+            "define": "ISDK_DEFINED"
+        },
+        {
+            "name": "com.meta.xr.sdk.interaction",
+            "expression": "74.0.0",
+            "define": "ISDK_74_OR_NEWER"
+        },
+        {
+            "name": "com.meta.xr.sdk.interaction",
+            "expression": "77.0.1",
+            "define": "ISDK_78_OR_NEWER"
+        },
+        {
+            "name": "com.meta.xr.sdk.core",
+            "expression": "77.0.1",
+            "define": "META_XR_CORE_V78_MIN"
+        },
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "",
+            "define": "USE_UNITY_INPUT_SYSTEM"
+        }
+    ],
+    "noEngineReferences": false
+}
