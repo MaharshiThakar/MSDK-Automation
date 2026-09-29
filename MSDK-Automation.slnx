@@ -1,0 +1,15 @@
+﻿<Solution>
+  <Project Path="Meta.XR.Movement.Samples.csproj" />
+  <Project Path="Meta.XR.Movement.Editor.csproj" />
+  <Project Path="Meta.XR.Movement.Networking.NGO.csproj" />
+  <Project Path="Meta.XR.Movement.Tracking.csproj" />
+  <Project Path="Meta.XR.Movement.Tracking.Editor.csproj" />
+  <Project Path="Meta.XR.Movement.csproj" />
+  <Project Path="Meta.XR.Movement.Samples.Editor.csproj" />
+  <Project Path="Meta.XR.Movement.Networking.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Meta.XR.Movement.Networking.Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Meta.XR.Movement.Networking.Fusion.csproj" />
+  <Project Path="Meta.XR.Movement.BuildingBlocks.Editor.csproj" />
+</Solution>

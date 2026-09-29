@@ -97,3 +97,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# UPM package sample sources. Unity ignores "~"-suffixed folders, and the samples
+# are already imported under Assets/Samples/. Matching how v205 was committed.
+# Declared here (not only in a personal global gitignore) so macOS and Windows
+# clones behave identically.
+Packages/com.meta.xr.sdk.movement/Samples~/
