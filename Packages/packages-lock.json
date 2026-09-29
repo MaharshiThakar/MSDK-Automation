@@ -80,9 +80,9 @@
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.movement": {
-      "version": "file:com.meta.xr.sdk.movement",
+      "version": "file:C:/Users/Oculus20/Downloads/Unity-Movement-207.0.0",
       "depth": 0,
-      "source": "embedded",
+      "source": "local",
       "dependencies": {
         "com.unity.burst": "1.8.18",
         "com.unity.textmeshpro": "3.0.6",
